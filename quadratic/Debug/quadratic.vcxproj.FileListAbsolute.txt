@@ -1,0 +1,2 @@
+C:\Users\katie\source\repos\quadratic\Debug\quadratic.exe
+C:\Users\katie\source\repos\quadratic\Debug\quadratic.pdb
