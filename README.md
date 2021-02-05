@@ -1,4 +1,4 @@
 # Codecademy
 Projects from Codecademy course
 
-This includes projects from a Codeacademy Pro course on C++
+This includes selected projects from a Codeacademy Pro course on C++
